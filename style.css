@@ -177,12 +177,8 @@ section {
   border-radius: 50%;
 }
 
-.circle-image {
-  border-radius: 80%; 
-  height: 300px;
-  width: 300px;
-  margin-top: 20px;
-  margin-left: 10px;
+.image {
+  border-radius: 5px;
 }
 
 .section__text {
